@@ -1,0 +1,13 @@
+type	file	tag	dimensions	x offset	x skip	y offset	y skip	frame array
+image	walls-ladders-doors.png	wall-top	16,16	0	0	0	0	14,1
+image	walls-ladders-doors.png	wall	16,16	0	0	16	0	14,1
+image	walls-ladders-doors.png	ladders	16,16	0	0	24	0	14,1
+image	walls-ladders-doors.png	doors	16,16	0	0	32	0	14,1
+image	treasure.png	treasure	16,16	0	0	0	0	10,7
+image	player.png	player	16,16	0	0	0	0	6,2
+image	enemies.png	enemy-1	16,16	0	0	0	0	2,2
+image	enemies.png	enemy-2	16,16	0	0	32	0	2,2
+image	enemies.png	enemy-3	16,16	0	0	64	0	2,2
+image	enemies.png	enemy-4	16,16	0	0	96	0	2,2
+image	TorusSans.png	font	8,9	1	1	0	0	94,1
+music	Icy Game Over.ogg	game-over	00,08

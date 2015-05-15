@@ -1,0 +1,11 @@
+Graphics:
+Surt - Simple broad-purpose tileset
+http://opengameart.org/forumtopic/wip-simple-broad-purpose-tileset
+
+usr_share - Torus Sans font
+http://opengameart.org/content/a-package-of-8-bit-fonts-for-grafx2-and-linux
+
+
+Music:
+Sudocolon - Icy Game Over
+http://opengameart.org/content/icy-game-over
